@@ -14,6 +14,7 @@ Hi there, I'm **Mayerza Rave**, **Full Stack Web Developer** from Colombia☕. N
 - 💼 I have studied multimedia design as well.
 - 💬 Ask me about anything, I will be glad to help you.
 - 📫 Please email via mayerzarave@gmail.com to reach me.
+
 <br/>
 
 **Languages and Tools:**  
@@ -30,9 +31,11 @@ Hi there, I'm **Mayerza Rave**, **Full Stack Web Developer** from Colombia☕. N
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayerzarave&theme=radical)
 <br/>
+
+## Projects🔥
+- Dogtty => www.dogtty.com
+- The Walking Pet => https://the-walking-pet.herokuapp.com/
 
 ## You can reach me at👽
 
