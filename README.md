@@ -1,4 +1,4 @@
-### Hey 👋 I'm Mayerza
+### Hey👋 I'm Mayerza
 
 Hi there, I'm **Mayerza Rave**, **Full Stack Web Developer** from Colombia☕. Not long ago I started this incredible journey into the world of programming and I'm excited to learn a lot more👩🏻‍💻.
 
