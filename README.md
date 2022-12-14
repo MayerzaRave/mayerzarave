@@ -10,9 +10,9 @@ Hi there, I'm **Mayerza Rave**, **Full Stack Web Developer** from Colombia☕. N
 
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning Python and Artificial Intelligence.
-- 📚 I am interested in learning more programming languages or tools and putting my learning into practice.
+- 📚 I'm interested in learning more programming languages or tools and putting my learning into practice.
 - 💼 I have studied multimedia design as well.
-- 💬 Ask me about anything, I will be glad to help you.
+- 💬 Ask me about anything, I'll be glad to help you.
 - 📫 Please email via mayerzarave@gmail.com to reach me.
 
 <br/>
