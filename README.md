@@ -13,7 +13,6 @@ Hi there, I'm **Mayerza Rave**, **Full Stack Web Developer** from Colombia☕. N
 - 📚 I'm interested in learning more programming languages or tools and putting my learning into practice.
 - 💼 I have studied multimedia design as well.
 - 💬 Ask me about anything, I'll be glad to help you.
-- 📫 Please email via mayerzarave@gmail.com to reach me.
 
 <br/>
 
